@@ -1,0 +1,11 @@
+// pages.config.json
+{
+    "routes": [
+      {
+        "pattern": "/login",
+        "methods": ["GET"],
+        "handler": "pages"
+      }
+    ]
+  }
+  
